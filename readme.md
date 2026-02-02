@@ -88,5 +88,5 @@ The following table summarizes the feasibility of our approach compared to a sta
 
 If you use this work in your research, please cite our study:
 
-> *Analytical Profiling of Quantization-Aware Knowledge Distillation for Resource-Constrained IoT Environments, 2024.*
+> *Autonomous Edge Security for IoT Networks via Isomorphic Quantization-Aware Knowledge Distillation.*
 
